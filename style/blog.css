@@ -3,3 +3,9 @@ h2{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+p{
+    background-color: aquamarine; 
+    border: 10px solid turquoise;
+    box-shadow: 20px 20px 20px;
+    margin: 40px;
+}
